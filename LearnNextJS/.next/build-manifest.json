@@ -1,0 +1,53 @@
+{
+  "pages": {
+    "/_app": [
+      "static/chunks/dbe63_next_dist_compiled_next-devtools_index_ef1ec9fd.js",
+      "static/chunks/dbe63_next_dist_compiled_fd44578a._.js",
+      "static/chunks/dbe63_next_dist_shared_lib_dab68be6._.js",
+      "static/chunks/dbe63_next_dist_client_d5a516df._.js",
+      "static/chunks/dbe63_next_dist_d8606ff9._.js",
+      "static/chunks/dbe63_next_app_9e4ad0c8.js",
+      "static/chunks/[next]_entry_page-loader_ts_1690d105._.js",
+      "static/chunks/dbe63_react-dom_f48c150b._.js",
+      "static/chunks/dbe63_368072a3._.js",
+      "static/chunks/[root-of-the-server]__3a880c0d._.js",
+      "static/chunks/Desktop_nasa-app_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-Desktop_nasa-app_pages__app_305e059a._.js"
+    ],
+    "/_error": [
+      "static/chunks/dbe63_next_dist_compiled_next-devtools_index_ef1ec9fd.js",
+      "static/chunks/dbe63_next_dist_compiled_fd44578a._.js",
+      "static/chunks/dbe63_next_dist_shared_lib_4abd6af7._.js",
+      "static/chunks/dbe63_next_dist_client_d5a516df._.js",
+      "static/chunks/dbe63_next_dist_6e6837ed._.js",
+      "static/chunks/dbe63_next_error_d9b97c30.js",
+      "static/chunks/[next]_entry_page-loader_ts_36a94a72._.js",
+      "static/chunks/dbe63_react-dom_f48c150b._.js",
+      "static/chunks/dbe63_368072a3._.js",
+      "static/chunks/[root-of-the-server]__8dd7ea6d._.js",
+      "static/chunks/Desktop_nasa-app_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-Desktop_nasa-app_pages__error_99f795f0._.js"
+    ]
+  },
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [
+    "static/chunks/dbe63_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_ssgManifest.js",
+    "static/development/_buildManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_f296e396._.js",
+    "static/chunks/dbe63_next_dist_compiled_react-dom_517ea716._.js",
+    "static/chunks/dbe63_next_dist_compiled_next-devtools_index_6685774d.js",
+    "static/chunks/dbe63_next_dist_compiled_c5031a38._.js",
+    "static/chunks/dbe63_next_dist_client_5021576c._.js",
+    "static/chunks/dbe63_next_dist_7f75ab00._.js",
+    "static/chunks/dbe63_@swc_helpers_cjs_e56c89d1._.js",
+    "static/chunks/Desktop_nasa-app_a0ff3932._.js",
+    "static/chunks/turbopack-Desktop_nasa-app_d5e8b5dc._.js"
+  ],
+  "ampFirstPages": []
+}

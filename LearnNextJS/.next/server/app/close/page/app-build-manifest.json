@@ -1,0 +1,23 @@
+{
+  "pages": {
+    "/close/page": [
+      "static/chunks/dbe63_next_dist_7dd355a6._.js",
+      "static/chunks/Desktop_nasa-app_app_favicon_ico_mjs_d009cd64._.js",
+      "static/chunks/[root-of-the-server]__c43789a8._.css",
+      "static/chunks/Desktop_nasa-app_8cc977df._.js",
+      "static/chunks/Desktop_nasa-app_app_layout_tsx_a4ead931._.js",
+      "static/chunks/dbe63_next_dist_client_components_builtin_global-error_0ba73df7.js",
+      "static/chunks/Desktop_nasa-app_app_close_page_tsx_9c7cbc07._.js",
+      "static/chunks/Desktop_nasa-app_app_close_page_tsx_0ba73df7._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_f296e396._.js",
+      "static/chunks/dbe63_next_dist_compiled_react-dom_517ea716._.js",
+      "static/chunks/dbe63_next_dist_compiled_next-devtools_index_6685774d.js",
+      "static/chunks/dbe63_next_dist_compiled_c5031a38._.js",
+      "static/chunks/dbe63_next_dist_client_5021576c._.js",
+      "static/chunks/dbe63_next_dist_7f75ab00._.js",
+      "static/chunks/dbe63_@swc_helpers_cjs_e56c89d1._.js",
+      "static/chunks/Desktop_nasa-app_a0ff3932._.js",
+      "static/chunks/turbopack-Desktop_nasa-app_d5e8b5dc._.js"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "/api/route": "app/api/route.js",
+  "/close/page": "app/close/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/photo/page": "app/photo/page.js"
+}

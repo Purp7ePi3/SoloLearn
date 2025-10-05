@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/simo/Desktop/nasa-app/app/page.tsx"],"sourcesContent":["import React from \"react\";\r\n\r\nexport default function Page() {\r\n    return (\r\n    <div\r\n        style={{\r\n            display: \"flex\",\r\n            justifyContent: \"center\", // horizontal\r\n            alignItems: \"center\",     // vertical\r\n            height: \"100vh\",          // full viewport height\r\n        }}\r\n        >\r\n        <h1>Testing api from Simone</h1>\r\n    </div>\r\n  );\r\n}"],"names":[],"mappings":";;;;;;AAEe,SAAS;IACpB,qBACA,wQAAC;QACG,OAAO;YACH,SAAS;YACT,gBAAgB;YAChB,YAAY;YACZ,QAAQ;QACZ;kBAEA,cAAA,wQAAC;sBAAG;;;;;;;;;;;AAGZ","debugId":null}}]
+}
