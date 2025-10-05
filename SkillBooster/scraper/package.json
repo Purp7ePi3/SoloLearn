@@ -1,0 +1,25 @@
+{
+  "name": "aerodrome-trading-bot",
+  "version": "1.0.0",
+  "description": "Bot automatico per trading su Aerodrome Finance",
+  "main": "trader.js",
+  "scripts": {
+    "start": "node trader.js",
+    "scrape": "node scraper.js",
+    "test": "node trader.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "elliptic": "^6.6.1",
+    "ethers": "^6.15.0",
+    "puppeteer": "^21.6.0"
+  },
+  "keywords": [
+    "defi",
+    "aerodrome",
+    "trading",
+    "bot"
+  ],
+  "author": "",
+  "license": "MIT"
+}
