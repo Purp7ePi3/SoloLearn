@@ -1,0 +1,13 @@
+# Cartelle generate dalla build
+**/bin/
+**/obj/
+
+# Cartelle di Visual Studio
+.vs/
+
+# File utente di Visual Studio
+*.user
+*.suo
+
+# Cartelle o file specifici del progetto
+nasaApic#/
